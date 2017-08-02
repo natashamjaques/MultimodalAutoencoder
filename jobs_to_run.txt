@@ -1,0 +1,11 @@
+MMAE wrapper - intelligent noise - no classification
+python autoencoder_wrapper.py all_modalities_present.csv True
+/some/path/on/your/server/where/output/goes/mmae_intelligent_noise_no_classification.txt
+
+MMAE NN wrapper - happiness label only
+python autoencoder_classification_wrapper.py all_modalities_present.csv modalities_missing.csv happiness
+/some/path/on/your/server/where/output/goes/mmae_nn_specific_label_happiness.txt
+
+SVM wrapper - missing mods filled with MMAE - happiness 
+python comparison_algorithms/svm.py modalities_missing.csv happiness
+/some/path/on/your/server/where/output/goes/svm_MMAE_filled-modalities_missing_happiness.txt

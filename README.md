@@ -1,7 +1,7 @@
 # MultimodalAutoencoder
 Code supporting the following paper: <br />
 
- Jaques N., Taylor S., Sano A., Picard R.,<strong>"Multimodal Autoencoder: A Deep Learning Approach to Filling In Missing Sensor Data and Enabling Better Mood Prediction", </strong> International Conference on Affective Computing and Intelligent Interaction, October 2017, Texas, USA. <a href="http://affect.media.mit.edu/publications.php">Link coming soon!</a> <br/>
+ Jaques N., Taylor S., Sano A., Picard R.,<strong>"Multimodal Autoencoder: A Deep Learning Approach to Filling In Missing Sensor Data and Enabling Better Mood Prediction", </strong> International Conference on Affective Computing and Intelligent Interaction, October 2017, Texas, USA. <a href="https://affect.media.mit.edu/pdfs/17.Jaques_autoencoder_ACII.pdf">pdf</a> <br/>
 
 ## Description
 
